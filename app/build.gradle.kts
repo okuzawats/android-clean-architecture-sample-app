@@ -66,8 +66,6 @@ hilt {
 
 dependencies {
     implementation(project(":feature:dog"))
-    implementation(project(":domain"))
-    implementation(project(":data"))
     implementation(project(":datasource"))
 
     implementation(libs.androidx.core.ktx)

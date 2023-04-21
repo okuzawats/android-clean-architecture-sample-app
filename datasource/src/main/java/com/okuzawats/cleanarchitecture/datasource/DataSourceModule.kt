@@ -1,4 +1,4 @@
-package com.okuzawats.cleanarchitecture.di
+package com.okuzawats.cleanarchitecture.datasource
 
 import com.okuzawats.cleanarchitecture.data.dog.DogDataSource
 import com.okuzawats.cleanarchitecture.datasource.common.ApiClient

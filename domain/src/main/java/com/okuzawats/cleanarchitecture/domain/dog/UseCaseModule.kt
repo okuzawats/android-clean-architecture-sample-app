@@ -1,6 +1,5 @@
-package com.okuzawats.cleanarchitecture.di
+package com.okuzawats.cleanarchitecture.domain.dog
 
-import com.okuzawats.cleanarchitecture.domain.dog.GetRandomDogUseCase
 import com.okuzawats.cleanarchitecture.domain.dog.impl.GetRandomDogUseCaseImpl
 import dagger.Module
 import dagger.Provides

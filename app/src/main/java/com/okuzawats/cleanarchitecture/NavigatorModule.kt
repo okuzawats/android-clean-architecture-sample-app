@@ -1,4 +1,4 @@
-package com.okuzawats.cleanarchitecture.di
+package com.okuzawats.cleanarchitecture
 
 import com.okuzawats.cleanarchitecture.feature.dog.navigation.MainNavigator
 import com.okuzawats.cleanarchitecture.navigator.MainNavigatorImpl

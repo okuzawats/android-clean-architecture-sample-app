@@ -1,4 +1,4 @@
-package com.okuzawats.cleanarchitecture.di
+package com.okuzawats.cleanarchitecture.data
 
 import com.okuzawats.cleanarchitecture.data.dog.DogRepositoryImpl
 import com.okuzawats.cleanarchitecture.domain.dog.repository.DogRepository
